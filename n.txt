@@ -1,1 +1,4 @@
 before stage
+now staged
+ 
+commited
