@@ -2,3 +2,8 @@ before stage
 now staged
  
 commited
+
+
+diff btw commit and staged
+
+doing 2nd commit
